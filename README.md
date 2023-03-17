@@ -1,7 +1,9 @@
 # linked_list-kevin.A.A.A
 
 Nama: Kevin Aditya Agusto Awang
+
 Nim : 2209116101
+
 prodi: Sistem Informasi B 2022
 
 penjelasan program:
